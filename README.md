@@ -14,3 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/deepseek/default.svg" title="DeepSeek" alt="DeepSeek" width="40" height="40"/>&nbsp;
 </div>
+
+## :file_folder: Реестр проектов
+|  Проект  |  Используемые инструменты  |
+|  ---  |  --- |
