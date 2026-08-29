@@ -1,7 +1,7 @@
-# Рягузов Владислав
+## Рягузов Владислав
 :computer: Внутренний аудит | Анализ данных
 
-##  Инструменты:
+###  Инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
@@ -15,6 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/deepseek/default.svg" title="DeepSeek" alt="DeepSeek" width="40" height="40"/>&nbsp;
 </div>
 
-## :file_folder: Реестр проектов
+### :file_folder: Реестр проектов
 |  Проект  |  Используемые инструменты  |
 |  ---  |  --- |
