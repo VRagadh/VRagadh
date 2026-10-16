@@ -18,3 +18,4 @@
 ### :file_folder: Реестр проектов
 |  Проект  |  Используемые инструменты  |
 |  ---  |  --- |
+|[Отток клиентов банка (EDA and Random Forest)](https://github.com/VRagadh/Portfolio/tree/main/%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%20(EDA%20and%20Random%20Forest)) | |
